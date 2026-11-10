@@ -1,0 +1,246 @@
+{
+  "title": "아홉 개의 방 · 26개 고화질 시안",
+  "clips": [
+    {
+      "id": "main",
+      "title": "MAIN · 칸막이 후퇴·복원 → 방 확장·축소",
+      "file": "videos/main.mp4",
+      "start": 0.0,
+      "duration": 23.034,
+      "source_sha256": "a4b41c3dcbec48aa2c1d4c70949c566f4e5764dd2938444bbda2a943401109b8",
+      "frames": 691
+    },
+    {
+      "id": "action-retract",
+      "title": "동작 1 · 칸막이 후퇴",
+      "file": "videos/action-retract.mp4",
+      "start": 23.034,
+      "duration": 7.034,
+      "source_sha256": "7d380a51288052426f26f9c33f1802663191c5adf0adc2662d5f178ce78f347c",
+      "frames": 211
+    },
+    {
+      "id": "action-restore",
+      "title": "동작 2 · 칸막이 복원",
+      "file": "videos/action-restore.mp4",
+      "start": 30.068,
+      "duration": 6.0,
+      "source_sha256": "d3746afbebaeceeaefbc3a636f511ed6ec48b9c3c50e667280db01e2dfff727a",
+      "frames": 180
+    },
+    {
+      "id": "action-expand",
+      "title": "동작 3 · 1번 방 확장과 이웃 방의 밀려남",
+      "file": "videos/action-expand.mp4",
+      "start": 36.068,
+      "duration": 5.0,
+      "source_sha256": "c60334a94b409eefd4aaf21f4c61f1ca41747d84be14ae7bbfcd7b525afdc6fe",
+      "frames": 150
+    },
+    {
+      "id": "action-shrink",
+      "title": "동작 4 · 방 축소와 처음 배치로의 복귀",
+      "file": "videos/action-shrink.mp4",
+      "start": 41.068,
+      "duration": 5.0,
+      "source_sha256": "3c3e9e1a279c836ec06a2591d753de538120a54748189ad1fc26bade0723b9c3",
+      "frames": 150
+    },
+    {
+      "id": "s1",
+      "title": "S1 · 칸막이 연쇄 후퇴",
+      "file": "videos/s1.mp4",
+      "start": 46.068,
+      "duration": 8.0,
+      "source_sha256": "c0c02ab6b051aa7f64d239e9121d0ba271202d0e55dd97bc47bcfb1a2c1e90b0",
+      "frames": 192
+    },
+    {
+      "id": "s2",
+      "title": "S2 · 가로·세로·여러 크기의 방 조합",
+      "file": "videos/s2.mp4",
+      "start": 54.068,
+      "duration": 12.0,
+      "source_sha256": "bfb5272bf402130d70cc6627520943bf4a1baccc3b9c18bc6ed58b2e1a006ca1",
+      "frames": 288
+    },
+    {
+      "id": "s3",
+      "title": "S3 · 모서리에서 시작하는 확장",
+      "file": "videos/s3.mp4",
+      "start": 66.068,
+      "duration": 12.0,
+      "source_sha256": "eb0e3a71c953d325b87580b8e977ce2861171c75a6fdd269ba289a5f2dda8505",
+      "frames": 288
+    },
+    {
+      "id": "s4",
+      "title": "S4 · 중앙 5번 방의 확장",
+      "file": "videos/s4.mp4",
+      "start": 78.068,
+      "duration": 7.0,
+      "source_sha256": "deba559c000ed769b3626d2df365a276c5854e4ac30f7aec0416aabfafe60604",
+      "frames": 168
+    },
+    {
+      "id": "s5",
+      "title": "S5 · 아홉 방 전체 통합",
+      "file": "videos/s5.mp4",
+      "start": 85.068,
+      "duration": 9.0,
+      "source_sha256": "75cd125aa42df6f269e449db7c7ddd01b3476330a3493981b5fcb70e5b2c4b14",
+      "frames": 216
+    },
+    {
+      "id": "s6",
+      "title": "S6 · 방의 깊이 변화",
+      "file": "videos/s6.mp4",
+      "start": 94.068,
+      "duration": 7.0,
+      "source_sha256": "e231e7732a62edab6d07dafb5c6de85501e1641d8e1ca69140940f59b4e7944d",
+      "frames": 168
+    },
+    {
+      "id": "b1",
+      "title": "B1 · 공의 동기화와 해체",
+      "file": "videos/b1.mp4",
+      "start": 101.068,
+      "duration": 8.0,
+      "source_sha256": "24a2129695d76006feaa11cb45d029c7f12f6dc4bae3b6f3ffa2b09e922ea01e",
+      "frames": 192
+    },
+    {
+      "id": "b2",
+      "title": "B2 · 연결된 방에서의 연쇄 충돌",
+      "file": "videos/b2.mp4",
+      "start": 109.068,
+      "duration": 8.0,
+      "source_sha256": "06b52092888724a8508d642ea4db38a2ca3feba754ee505566ec4ddb803e57c1",
+      "frames": 192
+    },
+    {
+      "id": "b3",
+      "title": "B3 · 방 안의 공이 앞으로 접근",
+      "file": "videos/b3.mp4",
+      "start": 117.068,
+      "duration": 7.0,
+      "source_sha256": "e5780bb35880a75f690b01456d2105539227d135cf464e50683dee400729d149",
+      "frames": 168
+    },
+    {
+      "id": "b4",
+      "title": "B4 · 잠깐의 정지와 운동 재개",
+      "file": "videos/b4.mp4",
+      "start": 124.068,
+      "duration": 8.0,
+      "source_sha256": "ad4653d114ec0986ebe5d52708f919ad7e804877150371e0c5b1eac237f5cfaa",
+      "frames": 192
+    },
+    {
+      "id": "p06",
+      "title": "P06 · 방 앞의 큰 궤도",
+      "file": "videos/p06.mp4",
+      "start": 132.068,
+      "duration": 10.0,
+      "source_sha256": "6062163e8557fb2aa2247f1d2d450dfc564c9ae38650046d288107147129077e",
+      "frames": 240
+    },
+    {
+      "id": "p07",
+      "title": "P07 · 1·5·9번 방의 세 공 릴레이",
+      "file": "videos/p07.mp4",
+      "start": 142.068,
+      "duration": 10.0,
+      "source_sha256": "e33140f502a201aef89215ffecdc629fa6131582ed45daa55e308ad73873d6e8",
+      "frames": 240
+    },
+    {
+      "id": "p09",
+      "title": "P09 · 두 공의 앞뒤 교차",
+      "file": "videos/p09.mp4",
+      "start": 152.068,
+      "duration": 10.0,
+      "source_sha256": "b8a5d2667814e826897965de73acc36d30d518ad17cfc048390eda5aabc48745",
+      "frames": 240
+    },
+    {
+      "id": "p14",
+      "title": "P14 · 통합된 방에서 세 공 방출",
+      "file": "videos/p14.mp4",
+      "start": 162.068,
+      "duration": 10.0,
+      "source_sha256": "b0d66ed998e36a23e1581963a87ba1c094775a7cd6b94705e0d9fba9c73b47d3",
+      "frames": 240
+    },
+    {
+      "id": "p17",
+      "title": "P17 · 아홉 공이 화면 전체에서 튕기기",
+      "file": "videos/p17.mp4",
+      "start": 172.068,
+      "duration": 10.0,
+      "source_sha256": "30ccc4d059ac3c662a9c1f5b3e90e0ec10d94de7daa4148edb25675c8c30eaf8",
+      "frames": 240
+    },
+    {
+      "id": "i03",
+      "title": "I03 · 오목한 방에서 볼록한 상자로",
+      "file": "videos/i03.mp4",
+      "start": 182.068,
+      "duration": 12.0,
+      "source_sha256": "4e8ea2c06268dc1b60bdd670496068fa4aa043fdf0424df45b1e440359e7698d",
+      "frames": 288
+    },
+    {
+      "id": "i04",
+      "title": "I04 · 깊이가 다른 방 전체에서 튀는 같은 공",
+      "file": "videos/i04.mp4",
+      "start": 194.068,
+      "duration": 12.0,
+      "source_sha256": "b8ccc69edb1383b9e674dfb261d67dbf8e6827142c4bcaaba72ba16be7b7b463",
+      "frames": 288
+    },
+    {
+      "id": "i06",
+      "title": "I06 · 움직이는 벽이 속이는 공의 속도",
+      "file": "videos/i06.mp4",
+      "start": 206.068,
+      "duration": 12.0,
+      "source_sha256": "3002187ca4bd73a3e5de04a3beb75e8225ffc391474df73459052e7f7cef55b1",
+      "frames": 288
+    },
+    {
+      "id": "i07",
+      "title": "I07 · 칸막이에서 창살과 깊은 줄눈으로",
+      "file": "videos/i07.mp4",
+      "start": 218.068,
+      "duration": 14.0,
+      "source_sha256": "f1fb27dc621814e04365563f458ea1af05042f1776dd5316dc63684c9c496095",
+      "frames": 336
+    },
+    {
+      "id": "i08",
+      "title": "I08 · 공의 윤곽을 가리는 보이지 않는 구체",
+      "file": "videos/i08.mp4",
+      "start": 232.068,
+      "duration": 16.0,
+      "source_sha256": "a9913d5926264574a3a2c029d3cde0e642f61f9d9352af7bbb83126547ec4fb6",
+      "frames": 384
+    },
+    {
+      "id": "i09",
+      "title": "I09 · 아주 밝은 방과 아주 어두운 방의 같은 공",
+      "file": "videos/i09.mp4",
+      "start": 248.068,
+      "duration": 12.0,
+      "source_sha256": "e0c676c2794d3fb1739fe7a0bb196554ee3a58be95576982555bc3654027f03e",
+      "frames": 288
+    }
+  ],
+  "duration": 260.068,
+  "bytes": 65558763,
+  "sha256": "7e059a11ebb35071c0c56028ddce6e363648d62ac7a8c85636b9390fe765fcf6",
+  "reencoded": false,
+  "frames": 6518,
+  "all_decoded_frames_identical": true,
+  "verification_basis": "all encoded source frames, ignoring container edit lists"
+}
